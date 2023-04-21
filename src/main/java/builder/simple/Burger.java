@@ -3,7 +3,6 @@ package builder.simple;
 public class Burger {
 
     private static final int AMMOUNT_BREADS = 2;
-
     private boolean hasLettuce;
     private boolean hasBeef;
     private boolean hasPork;
