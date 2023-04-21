@@ -10,7 +10,7 @@ public final class Name {
     private final Long id;
     private final String firstName;
 
-    public static class Builder(){
+    public static class Builder{
         private Long id;
         private String firstName;
 
